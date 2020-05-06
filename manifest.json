@@ -3,7 +3,11 @@
 
   "name": "CAU Library Chrome Extension",
   "description": "A chrome extension for digital papers using CAU Library.",
-  "version": "1.0",
+  "version": "1.1",
+  "icons": {
+    "16": "icon16.png",
+    "128": "icon128.png"
+  },
 
   "browser_action": {
     "default_icon": "icon.png",
